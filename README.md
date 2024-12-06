@@ -22,7 +22,7 @@ Create a .env file in the backend directory and add the MongoDB URI:
 MONGO_URI=mongodb+srv://shashwatiwari:shashwatiwari@cluster0.ytabkne.mongodb.net/music-player
 
 Run the backend server:
-node server.js
+node index.js
 The backend should now be running on http://localhost:5000.
 
 Frontend (React)
